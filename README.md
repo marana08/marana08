@@ -13,28 +13,20 @@ I have experience working with REST APIs, developing interactive features, and c
 ## 🧰 Tech Stack  
 
 ### 💡 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Basic-blue?style=for-the-badge&logo=typescript)  
+
+JavaScript, TypeScript
 
 ### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3)  
-![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)  
+HTML5, CSS3, Responsive & Adaptive Design
 
 ### ⚙️ Tools & Technologies  
-![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge&logo=github)  
-![Vite](https://img.shields.io/badge/Vite-BuildTool-purple?style=for-the-badge)  
-![Webpack](https://img.shields.io/badge/Webpack-Bundler-blue?style=for-the-badge&logo=webpack)  
+Git, GitHub, Vite, Webpack, REST API
 
 ### 🔗 API & Data  
-![REST API](https://img.shields.io/badge/REST_API-Integration-lightgrey?style=for-the-badge)  
-![Fetch](https://img.shields.io/badge/Fetch-API-yellow?style=for-the-badge)  
-![Axios](https://img.shields.io/badge/Axios-HTTPClient-purple?style=for-the-badge)  
+Fetch API, Axios
 
 ### 📐 Methodologies  
-![Agile](https://img.shields.io/badge/Agile-Workflow-blue?style=for-the-badge)  
-![Scrum](https://img.shields.io/badge/Scrum-Teamwork-green?style=for-the-badge)  
+Agile, Scrum 
 
 ---
 
