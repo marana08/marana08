@@ -1,74 +1,109 @@
-👋 Hi, I'm Mariana Melen
+# 👋 Hi, I'm Mariana Melen  
 
-💻 Front-End Developer | JavaScript | HTML5 | CSS3
+💻 **Front-End Developer**  
 
-Front-End Developer with hands-on experience in building responsive and adaptive web applications using JavaScript. Skilled in developing modern user interfaces, integrating REST APIs, and creating interactive web experiences.
+Passionate Front-End Developer with hands-on experience in building responsive and adaptive web applications using JavaScript. I specialize in creating clean, user-friendly interfaces and implementing modern UI solutions.  
 
-I have practical experience working on both team-based and individual projects, contributing to UI development, implementing responsive layouts, and collaborating using Git workflows.
+I have experience working with REST APIs, developing interactive features, and collaborating in Agile/Scrum teams. I focus on writing maintainable code, improving usability, and continuously growing as a developer.  
 
-Experienced in Agile/Scrum environments, I follow best practices in clean code, version control, and performance optimization. Passionate about usability, scalable solutions, and continuous professional growth.
+🚀 Currently open to new opportunities and excited to contribute to real-world projects  
 
-🚀 Currently open to new opportunities as a Front-End Developer
+---
 
-🧰 Tech Stack
+## 🧰 Tech Stack  
 
-Languages:
-JavaScript | TypeScript
+### 💡 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Basic-blue?style=for-the-badge&logo=typescript)  
 
-Frontend:
-HTML5 | CSS3 | Responsive & Adaptive Design
+### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue?style=for-the-badge&logo=css3)  
+![Responsive](https://img.shields.io/badge/Responsive-Design-green?style=for-the-badge)  
 
-Tools & Technologies:
-Git | GitHub | Vite | Webpack
+### ⚙️ Tools & Technologies  
+![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge&logo=git)  
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?style=for-the-badge&logo=github)  
+![Vite](https://img.shields.io/badge/Vite-BuildTool-purple?style=for-the-badge)  
+![Webpack](https://img.shields.io/badge/Webpack-Bundler-blue?style=for-the-badge&logo=webpack)  
 
-API & Data:
-REST API | Fetch API | Axios
+### 🔗 API & Data  
+![REST API](https://img.shields.io/badge/REST_API-Integration-lightgrey?style=for-the-badge)  
+![Fetch](https://img.shields.io/badge/Fetch-API-yellow?style=for-the-badge)  
+![Axios](https://img.shields.io/badge/Axios-HTTPClient-purple?style=for-the-badge)  
 
-Methodologies:
-Agile | Scrum
+### 📐 Methodologies  
+![Agile](https://img.shields.io/badge/Agile-Workflow-blue?style=for-the-badge)  
+![Scrum](https://img.shields.io/badge/Scrum-Teamwork-green?style=for-the-badge)  
 
-💻 Featured Projects
+---
 
-🐾 Fluffy Team — Animal Shelter Web App
+## 💻 Featured Projects  
 
-Team project | Role: Team Lead, Frontend Developer
-Technologies: HTML5, CSS3, JavaScript, Vite, Git, GitHub Pages
-Description: A responsive web application for an animal shelter designed to help users find pets for adoption
-and learn about the organization’s mission.
-My responsibilities: led the frontend development process and coordinated team workflow, developed the
-Hero section with a clear call-to-action, implemented interactive informational sections using JavaScript,
-managed collaboration using Git workflow
+### 🐾 Fluffy Team — Animal Shelter Web App  
+🔗 https://github.com/marana08/fluffy_team  
 
-☕ CoffeeJoy — Customer Reviews Landing Page
+**Role:** Team Lead, Frontend Developer  
 
-Team project | Role: Frontend Developer
-Technologies: HTML5, CSS3, JavaScript, Vite
-Description: A promotional landing page created to present services and increase user engagement.
-My responsibilities: developed the “What Our Visitors Say” testimonials section, implemented responsive
-layout based on design mockups, styled UI components according to layout guidelines, collaborated within a
-team using Git and GitHub
+Responsive web application that helps users find pets for adoption and learn about the organization.  
 
+**Responsibilities:**  
+- Led frontend development and coordinated team workflow  
+- Developed Hero section with clear call-to-action  
+- Implemented interactive sections using JavaScript  
+- Managed collaboration using Git workflow  
 
-🌐 WebStudio — Portfolio Website
+---
 
-Individual project | Role: Developer
-Technologies: HTML5, CSS3, JavaScript, Git, GitHub Pages
-Description: Implemented a personal portfolio website as part of a front-end development course
-assignment. The project demonstrates responsive design, structured layout, and interactive elements.
-Key features: fully responsive layout (desktop, tablet, mobile), smooth scrolling navigation, project showcase
-with live demo and repository links, contact form with basic validation
+### ☕ CoffeeJoy — Customer Reviews Landing Page  
+🔗 https://github.com/ivannashchokalo/team-project  
 
-🗣️ Languages
+**Role:** Frontend Developer  
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=for-the-badge&logoColor=white)
-![English](https://img.shields.io/badge/English-A2-1E90FF?style=for-the-badge)
+Landing page focused on presenting services and increasing user engagement.  
 
-📫 How to reach me
+**Responsibilities:**  
+- Developed testimonials section  
+- Implemented responsive layout from design mockups  
+- Styled UI components  
+- Collaborated using Git & GitHub  
 
-💼 LinkedIn: https://www.linkedin.com/in/mariana-melen
+---
 
-💻 GitHub: https://github.com/marana08
+### 🌐 WebStudio — Portfolio Website  
+🔗 https://github.com/marana08/goit-markup-hw-06  
 
-📬 Email: maranamelen13@gmail.com
+**Role:** Developer  
 
-💬 Telegram: https://t.me/marana_8
+Personal portfolio website demonstrating responsive design and modern layout.  
+
+**Key Features:**  
+- Fully responsive layout  
+- Smooth navigation  
+- Project showcase section  
+- Contact form with validation  
+
+---
+
+## 🗣️ Languages  
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-0057B7?style=for-the-badge&logoColor=white)  
+![English](https://img.shields.io/badge/English-A2-1E90FF?style=for-the-badge)  
+![German](https://img.shields.io/badge/German-A1-999999?style=for-the-badge)  
+
+---
+
+## 📫 Contact Me  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mariana-melen  
+- 💻 GitHub: https://github.com/marana08  
+- 📧 Email: maranamelen13@gmail.com  
+- 💬 Telegram: https://t.me/marana_8  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marana08&show_icons=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marana08&layout=compact)  
