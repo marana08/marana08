@@ -32,48 +32,61 @@ Agile, Scrum
 
 ## 💻 Featured Projects  
 
-### 🐾 Fluffy Team — Animal Shelter Web App  
-🔗 https://github.com/marana08/fluffy_team  
+### 🐾 Fluffy Team — Animal Shelter Web App 
 
-**Role:** Team Lead, Frontend Developer  
+**Team project | Role:** Team Lead, Frontend Developer
 
-Responsive web application that helps users find pets for adoption and learn about the organization.  
+**Technologies:** HTML5, CSS3, JavaScript, Vite, Git, GitHub Pages
+
+**Description:** A responsive web application for an animal shelter designed to help users find pets for adoption
+and learn about the organization’s mission. 
 
 **Responsibilities:**  
 - Led frontend development and coordinated team workflow  
 - Developed Hero section with clear call-to-action  
 - Implemented interactive sections using JavaScript  
-- Managed collaboration using Git workflow  
+- Managed collaboration using Git workflow
+
+**Live Demo:** https://marana08.github.io/fluffy_team/
+**GitHub:** https://github.com/marana08/fluffy_team
 
 ---
 
-### ☕ CoffeeJoy — Customer Reviews Landing Page  
-🔗 https://github.com/ivannashchokalo/team-project  
+### ☕ CoffeeJoy — Customer Reviews Landing Page    
 
-**Role:** Frontend Developer  
+**Team project | Role:** Frontend Developer
 
-Landing page focused on presenting services and increasing user engagement.  
+**Technologies:** HTML5, CSS3, JavaScript, Vite
+
+**Description:** A promotional landing page created to present services and increase user engagement
 
 **Responsibilities:**  
 - Developed testimonials section  
 - Implemented responsive layout from design mockups  
 - Styled UI components  
-- Collaborated using Git & GitHub  
+- Collaborated using Git & GitHub
+
+**Live Demo:** https://ivannashchokalo.github.io/team-project/
+**GitHub:** https://github.com/ivannashchokalo/team-project
 
 ---
 
-### 🌐 WebStudio — Portfolio Website  
-🔗 https://github.com/marana08/goit-markup-hw-06  
+### 🌐 WebStudio — Portfolio Website
 
-**Role:** Developer  
+**Individual project | Role:** Developer
 
-Personal portfolio website demonstrating responsive design and modern layout.  
+**Technologies:** HTML5, CSS3, JavaScript, Git, GitHub Pages
+
+**Description:** Implemented a personal portfolio website as part of a front-end development course  
 
 **Key Features:**  
 - Fully responsive layout  
 - Smooth navigation  
 - Project showcase section  
-- Contact form with validation  
+- Contact form with validation
+
+**Live Demo:** https://marana08.github.io/goit-markup-hw-06/
+**GitHub:** https://github.com/marana08/goit-markup-hw-06
 
 ---
 
