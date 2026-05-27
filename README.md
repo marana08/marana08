@@ -28,7 +28,8 @@ Git · GitHub · Vite · Webpack · Postman · VS Code · Agile · Scrum
 ---
 
 ## 📝 NoteHub — Notes Application (Next.js) ⭐ STRONGEST PROJECT  
-🔗 https://github.com/marana08/09-auth  
+🔗 GitHub: https://github.com/marana08/09-auth  
+🌐 Live: https://09-auth-tau-navy.vercel.app/
 
 **Role: Full-Stack / Frontend Developer**
 
@@ -47,7 +48,8 @@ Modern notes application built with Next.js App Router, focused on performance, 
 ---
 
 ## 🐾 Fluffy Team — Animal Shelter Web Application  
-🔗 https://github.com/marana08/fluffy_team  
+🔗 GitHub: https://github.com/marana08/fluffy_team  
+🌐 Live: https://marana08.github.io/fluffy_team/
 
 **Role: Frontend Developer & Team Lead**
 
@@ -65,7 +67,8 @@ Adaptive web application designed to help users find pets for adoption and learn
 ---
 
 ## 🐦 Stork Frontend — Modal & Confirmation System  
-🔗 https://github.com/Kostya088/stork-frontend  
+🔗 GitHub: https://github.com/Kostya088/stork-frontend  
+🌐 Live: https://stork-frontend.vercel.app/
 
 **Role: Scrum Master & Frontend Developer**
 
@@ -82,7 +85,8 @@ Team project focused on UI interactions and modal systems.
 ---
 
 ## ☕ CoffeeJoy — Customer Reviews Landing Page  
-🔗 https://github.com/ivannashchokalo/team-project  
+🔗 GitHub: https://github.com/ivannashchokalo/team-project  
+🌐 Live: https://ivannashchokalo.github.io/team-project/
 
 **Role: Frontend Developer**
 
@@ -100,8 +104,8 @@ Promotional landing page focused on user engagement and clean UI presentation.
 
 ## 🌍 Languages
 - Ukrainian (native)
-- English (B1–B2)
-- German (A2–B1)
+- English (А2–B1)
+- German (A2)
 
 ---
 
