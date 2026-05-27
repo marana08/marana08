@@ -1,118 +1,113 @@
-# 👋 Hey, I’m Mariana  
-### 💻 Full-Stack Developer
+# 👋 Hey, I’m Mariana Melen  
+### 💻 Full-Stack / Frontend Developer
 
-I’m a developer who enjoys turning ideas into modern, functional, and visually clean web applications. Most of all, I like the process of building products from scratch — from responsive UI to backend logic and API integration.
+I’m a developer focused on building responsive, scalable web applications using modern JavaScript and TypeScript ecosystems. I enjoy working across UI, application logic, and state management, with a strong focus on clean architecture, performance, and user experience.
 
-I work mainly with JavaScript/TypeScript technologies and focus on creating applications that are not only functional, but also intuitive and comfortable for users. I pay attention to code structure, performance, responsiveness, and clean architecture.
-
-For me, development is a combination of creativity and problem-solving. I enjoy learning new approaches, improving existing solutions, and growing through real projects and teamwork.
-
-🚀 Currently focused on full-stack development with React, Next.js, and Node.js.
+My main stack is React and Next.js, and I also enjoy working with Agile workflows and collaborative development using Git.
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### Frontend
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Sass
-- Tailwind CSS
-- Responsive Design
-- CSS Grid
+React · Next.js · JavaScript · TypeScript · HTML5 · CSS3 · Sass · Tailwind CSS · Responsive Design · CSS Grid
 
 ### Backend
-- Node.js
-- Express.js
-- REST API
+Node.js · Express.js · REST API
+
+### State Management
+Zustand · React state patterns
 
 ### Tools
-- Git
-- GitHub
-- Vite
-- Webpack
-- Postman
-- VS Code
-
-### Working With
-- Fetch API
-- Axios
-- Agile
-- Scrum
+Git · GitHub · Vite · Webpack · Postman · VS Code · Agile · Scrum
 
 ---
 
-## 🚀 What I’m Working On
-
-- Building scalable full-stack applications
-- Improving backend development skills
-- Deepening TypeScript knowledge
-- Creating better responsive interfaces
-- Exploring modern React ecosystem practices
+## 🚀 Projects
 
 ---
 
-# 💻 Projects
+## 📝 NoteHub — Notes Application (Next.js) ⭐ STRONGEST PROJECT  
+🔗 https://github.com/marana08/09-auth  
 
-## 🐾 Fluffy Team
-Animal shelter web application created as a team project.
+**Role: Full-Stack / Frontend Developer**
 
-### My contribution:
-- Team coordination and frontend development
-- Interactive UI implementation
-- Responsive sections and JavaScript functionality
-- Git workflow management and collaboration
+Modern notes application built with Next.js App Router, focused on performance, SEO optimization, and persistent state management.
 
-**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite
+### Key Features & Responsibilities:
+- Implemented SEO metadata for all pages (including Open Graph)
+- Configured global font system using `next/font/google`
+- Built dedicated route `/notes/action/create`
+- Refactored forms from Formik to native HTML forms
+- Implemented draft autosave using Zustand + persist (localStorage)
+- Structured application using Next.js App Router architecture
 
-🔗 GitHub Repository
-
----
-
-## ☕ CoffeeJoy
-Landing page focused on user engagement and clean presentation.
-
-### What I worked on:
-- Testimonials section
-- Responsive layout implementation
-- UI styling and component structure
-- Team collaboration through GitHub
-
-**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite
-
-🔗 GitHub Repository
+**Tech Stack:** Next.js · React · TypeScript · Zustand · SEO · CSS3
 
 ---
 
-## 🌐 WebStudio
-Personal portfolio-style website project.
+## 🐾 Fluffy Team — Animal Shelter Web Application  
+🔗 https://github.com/marana08/fluffy_team  
 
-### Features:
-- Responsive design
-- Smooth user experience
-- Project presentation section
-- Contact functionality
+**Role: Frontend Developer & Team Lead**
 
-**Tech Stack:** HTML5 · CSS3 · JavaScript
+Adaptive web application designed to help users find pets for adoption and learn about the shelter’s mission.
 
-🔗 GitHub Repository
+### Responsibilities:
+- Led frontend development and coordinated team workflow
+- Developed Hero section with clear CTA and UX focus
+- Built interactive UI sections using JavaScript
+- Managed Git workflow and team collaboration
+- Ensured responsive design across devices
 
----
-
-## 🗣️ Languages
-- Ukrainian
-- English
-- German
+**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite · Git
 
 ---
 
-## 📫 Contact Me
+## 🐦 Stork Frontend — Modal & Confirmation System  
+🔗 https://github.com/Kostya088/stork-frontend  
 
-- 📧 Email: maranamelen13@gmail.com
-- 💻 GitHub: https://github.com/marana08
-- 💼 LinkedIn: https://www.linkedin.com/in/mariana-melen/
-- 💬 Telegram: https://t.me/marana_8
+**Role: Scrum Master & Frontend Developer**
+
+Team project focused on UI interactions and modal systems.
+
+### Responsibilities:
+- Facilitated Agile workflow and team coordination
+- Implemented ConfirmationContent component
+- Developed modal window system with interaction logic
+- Ensured UI consistency and reusable components
+
+**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite · Git
+
+---
+
+## ☕ CoffeeJoy — Customer Reviews Landing Page  
+🔗 https://github.com/ivannashchokalo/team-project  
+
+**Role: Frontend Developer**
+
+Promotional landing page focused on user engagement and clean UI presentation.
+
+### Responsibilities:
+- Developed “What Our Visitors Say” testimonials section
+- Implemented responsive layout based on design mockups
+- Styled UI components according to design system
+- Collaborated in team using Git and GitHub workflow
+
+**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite · Git
+
+---
+
+## 🌍 Languages
+- Ukrainian (native)
+- English (B1–B2)
+- German (A2–B1)
+
+---
+
+## 📫 Contact
+
+- Email: maranamelen13@gmail.com  
+- GitHub: https://github.com/marana08  
+- LinkedIn: https://www.linkedin.com/in/mariana-melen/  
+- Telegram: https://t.me/marana_8  
