@@ -1,4 +1,3 @@
-```md
 # 👋 Hey, I’m Mariana  
 ### 💻 Full-Stack Developer
 
@@ -117,4 +116,3 @@ Personal portfolio-style website project.
 - 💻 GitHub: https://github.com/marana08
 - 💼 LinkedIn: https://www.linkedin.com/in/mariana-melen/
 - 💬 Telegram: https://t.me/marana_8
-```
