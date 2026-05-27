@@ -1,78 +1,106 @@
-# 👋 Hi, I'm Mariana Melen
-💻 Front-End Developer
+```md
+# 👋 Hey, I’m Mariana  
+### 💻 Full-Stack Developer
 
-Passionate Front-End Developer with hands-on experience in building responsive and adaptive web applications using JavaScript. I specialize in creating clean, user-friendly interfaces and implementing modern UI solutions.
+I’m a developer who enjoys turning ideas into modern, functional, and visually clean web applications. Most of all, I like the process of building products from scratch — from responsive UI to backend logic and API integration.
 
-I have experience working with REST APIs, developing interactive features, and collaborating in Agile/Scrum teams. I focus on writing maintainable code, improving usability, and continuously growing as a developer.
+I work mainly with JavaScript/TypeScript technologies and focus on creating applications that are not only functional, but also intuitive and comfortable for users. I pay attention to code structure, performance, responsiveness, and clean architecture.
 
-🚀 Currently open to new opportunities and excited to contribute to real-world projects.
+For me, development is a combination of creativity and problem-solving. I enjoy learning new approaches, improving existing solutions, and growing through real projects and teamwork.
 
----
-
-## 🧰 Tech Stack
-
-### 💡 Languages
-JavaScript, TypeScript
-
-### 🎨 Frontend
-HTML5, CSS3, Responsive & Adaptive Design
-
-### ⚙️ Tools & Technologies
-Git, GitHub, Vite, Webpack, REST API
-
-### 🔗 API & Data
-Fetch API, Axios
-
-### 📐 Methodologies
-Agile, Scrum
+🚀 Currently focused on full-stack development with React, Next.js, and Node.js.
 
 ---
 
-## 💻 Featured Projects
+## ⚙️ Tech Stack
 
-### 🐾 [Fluffy Team — Animal Shelter Web App](https://marana08.github.io/fluffy_team/)
-**Team project | Role:** Team Lead, Frontend Developer  
-**Technologies:** HTML5, CSS3, JavaScript, Vite, Git, GitHub Pages  
+### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Sass
+- Tailwind CSS
+- Responsive Design
+- CSS Grid
 
-**Description:** A responsive web application for an animal shelter designed to help users find pets for adoption and learn about the organization’s mission.  
+### Backend
+- Node.js
+- Express.js
+- REST API
 
-**Responsibilities:**
-- Led frontend development and coordinated team workflow
-- Developed Hero section with clear call-to-action
-- Implemented interactive sections using JavaScript
-- Managed collaboration using Git workflow
+### Tools
+- Git
+- GitHub
+- Vite
+- Webpack
+- Postman
+- VS Code
 
-[GitHub Repository](https://github.com/marana08/fluffy_team)
+### Working With
+- Fetch API
+- Axios
+- Agile
+- Scrum
 
 ---
 
-### ☕ [CoffeeJoy — Customer Reviews Landing Page](https://ivannashchokalo.github.io/team-project/)
-**Team project | Role:** Frontend Developer  
-**Technologies:** HTML5, CSS3, JavaScript, Vite  
+## 🚀 What I’m Working On
 
-**Description:** Promotional landing page to present services and increase user engagement  
-
-**Responsibilities:**
-- Developed testimonials section
-- Implemented responsive layout from design mockups
-- Styled UI components
-- Collaborated using Git & GitHub
-
-[GitHub Repository](https://github.com/ivannashchokalo/team-project)
+- Building scalable full-stack applications
+- Improving backend development skills
+- Deepening TypeScript knowledge
+- Creating better responsive interfaces
+- Exploring modern React ecosystem practices
 
 ---
 
-### 🌐 [WebStudio — Portfolio Website](https://marana08.github.io/goit-markup-hw-06/)
-**Individual project | Role:** Developer  
-**Technologies:** HTML5, CSS3, JavaScript, Git, GitHub Pages  
+# 💻 Projects
 
-**Key Features:**
-- Fully responsive layout
-- Smooth navigation
-- Project showcase section
-- Contact form with validation
+## 🐾 Fluffy Team
+Animal shelter web application created as a team project.
 
-[GitHub Repository](https://github.com/marana08/goit-markup-hw-06)
+### My contribution:
+- Team coordination and frontend development
+- Interactive UI implementation
+- Responsive sections and JavaScript functionality
+- Git workflow management and collaboration
+
+**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite
+
+🔗 GitHub Repository
+
+---
+
+## ☕ CoffeeJoy
+Landing page focused on user engagement and clean presentation.
+
+### What I worked on:
+- Testimonials section
+- Responsive layout implementation
+- UI styling and component structure
+- Team collaboration through GitHub
+
+**Tech Stack:** JavaScript · HTML5 · CSS3 · Vite
+
+🔗 GitHub Repository
+
+---
+
+## 🌐 WebStudio
+Personal portfolio-style website project.
+
+### Features:
+- Responsive design
+- Smooth user experience
+- Project presentation section
+- Contact functionality
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+🔗 GitHub Repository
 
 ---
 
@@ -83,23 +111,10 @@ Agile, Scrum
 
 ---
 
-## 📊 GitHub Stats
-
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marana08&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marana08&layout=compact&theme=radical)
-
----
-
 ## 📫 Contact Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariana-melen)
-- 💻 [GitHub](https://github.com/marana08)
-- 📧 maranamelen13@gmail.com
-- 💬 [Telegram](https://t.me/marana_8)
 
----
-
-## 🌱 Currently Learning
-- React.js
-- Next.js
-- Tailwind CSS
-- Deepening TypeScript skills
+- 📧 Email: maranamelen13@gmail.com
+- 💻 GitHub: https://github.com/marana08
+- 💼 LinkedIn: https://www.linkedin.com/in/mariana-melen/
+- 💬 Telegram: https://t.me/marana_8
+```
